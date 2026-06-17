@@ -1,0 +1,205 @@
+html {
+  font-size: clamp(1rem, calc(0.5rem + 2vw), 1.625rem);
+  font-family: "Gowun Batang", serif;
+}
+
+header {
+  padding: 7vw 5vw 7vw 5vw;
+  font-size: 5vw;
+  border-bottom: 1px solid gray;
+}
+
+header h1 a {
+  color: black;
+}
+
+section.announcement {
+  padding: 5vw 9vw 5vw 9vw;
+  text-align: center
+}
+
+section.announcement div {
+  background: #F6F0E4;
+  border-radius: 2vw;
+}
+
+section.announcement h2 {
+
+  font-size: 5vw;
+  border-radius: 10px;
+}
+
+section.announcement a {
+  text-decoration: underline;
+  font-size: 5vw;
+
+}
+
+section.announcement p {
+  padding: 9vw 9vw 9vw 9vw;
+}
+
+section.announcement h3 {
+  font-size: 10vw;
+  font-weight: 400;
+}
+
+section.img img {
+  width: 100%;
+}
+
+/* section what we do */
+
+
+
+
+section.what {
+  text-align: center;
+  margin: 5vw 8vw 5vw 8vw;
+
+
+}
+
+section.what h2 {
+  font-size: 12vw;
+  padding: 7vw 0 20vw 0;
+}
+
+section.what h3 {
+  font-weight: 570;
+  color: #3D1A0D;
+  font-size: 4.5vw;
+  margin: 20vw 0 12vw 0;
+
+}
+
+section.what h4 {
+  font-size: 5vw;
+  margin: 7vw 0 7vw 0;
+}
+
+section.what p {
+  font-size: 4vw;
+  font-weight: 600;
+}
+
+section.what img {
+  margin: 15vw 0 15vw 0;
+  width: 80%;
+}
+
+section.news h2 {
+  text-align: center;
+  font-size: 12vw;
+  padding: 7vw 0 20vw 0;
+
+}
+
+section.news {
+  text-align: center;
+}
+
+section.news li {
+  border: #E4E4E4 1px solid;
+  margin: 25px;
+  padding: 25px 0 25px 0;
+  border-radius: 10px;
+
+
+}
+
+
+
+
+section.news img {
+  width: 60%;
+}
+
+section.news h3 {
+  font-weight: 570;
+  color: #3D1A0D;
+  font-size: 4.5vw;
+  margin: 20vw 0 12vw 0;
+
+}
+
+section.news h4 {
+
+  font-size: 5vw;
+  margin: 7vw 0 7vw 0;
+
+}
+
+section.news p {
+  color: #5B5B5B;
+  font-size: 4vw;
+
+}
+
+section.regional {
+  text-align: center;
+  overflow: hidden;
+  box-sizing: border-box;
+
+}
+
+section.regional h2 {
+  font-size: 10vw;
+  font-weight: 570;
+  margin: 5vw 5vw 5vw 5vw;
+}
+
+section.regional p.score {
+  color: #5B5B5B;
+  font-size: 4vw;
+  margin: 4vw 4vw 4vw 4vw;
+  /*padding: 4vw 4vw 4vw 4vw;*/
+  border: none;
+}
+
+section.regional h3 {
+
+  font-weight: 590;
+  color: #3D1A0D;
+  font-size: 3vw;
+
+}
+
+section.regional li {
+
+  font-size: 4vw;
+  margin: 5vw;
+  border-left: #E4E4E4 solid 1px;
+  padding: 0 0 5vw 4vw;
+  text-align: left;
+
+}
+
+footer {
+  background-color: #545454;
+
+}
+
+footer h2 {
+  color: white;
+  font-size: 5vw;
+  font-weight: 570;
+  margin: 5vw 5vw 5vw 3vw;
+}
+
+footer p {
+  color: #ffffff;
+  font-size: 4vw;
+ margin: 0vw 0vw 0vw 3vw;
+}
+
+footer p.lincon {
+  margin: 12vw 0vw 0vw 3vw;
+}
+
+footer img {
+
+ height: 4vw;
+ margin: 4vw 1vw 3vw 1vw;
+  
+}
